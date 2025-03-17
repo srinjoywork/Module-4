@@ -16,8 +16,7 @@ Base URL: `/api/auth`
 
 **Request Body:**
 
- json  
-CopyEdit  
+ json   
 `{`  
   `"username": "string (required)",`  
   `"email": "string (required)",`  
@@ -43,7 +42,7 @@ CopyEdit
   `"updatedAt": "timestamp",`  
   `"__v": 0`  
 `}`  
----
+
 
 ### **2\. User Login**
 
@@ -579,7 +578,7 @@ CopyEdit
   `"createdAt": "timestamp",`  
   `"updatedAt": "timestamp"`  
 `}`  
----
+
 
 ## **🛡️ Authentication & Security Notes**
 
