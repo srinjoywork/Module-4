@@ -10,6 +10,14 @@ Welcome to **TechBlog**, a powerful and interactive blogging platform built usin
 
 👉 [View Live Project](https://module-4-xi.vercel.app)
 
+📌 **API EndPoints Documentation**
+
+👉 [View API Documentation](https://github.com/srinjoywork/Module-4/blob/main/API_EndPoints_Documentation.md)
+
+📌 **Demo Video of Whole Project**
+
+👉 [View Demo video](https://drive.google.com/file/d/1dBW1XJH7dEv7ZS_ovM3HCd-BZYyTq7yx/view?usp=sharing)
+
 **📌 Key Features**
 -------------------
 
@@ -55,14 +63,6 @@ Welcome to **TechBlog**, a powerful and interactive blogging platform built usin
 *   ✅ **Axios** – for smooth frontend-backend communication.
 *   ✅ **bcrypt.js** – for secure password hashing.
 *   ✅ **dotenv** – for managing environment variables.
-
-📌 **API EndPoints Documentation**
-
-👉 [View API Documentation](https://github.com/srinjoywork/Module-4/blob/main/API_EndPoints_Documentation.md)
-
-📌 **Demo Video of Whole Project**
-
-👉 [View Demo video](https://docs.google.com/document/d/e/2PACX-1vRHwB2XxLG5h4CPcVBnGOiMWMiHW3wgNxJ-ZadJfurFS0icB33UokpIsqFK2yK0AG_uyV_MBDlV1Dqr/pub)
 
 
 **📥 Installation and Setup**
