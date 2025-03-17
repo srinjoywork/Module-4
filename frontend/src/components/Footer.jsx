@@ -1,30 +1,18 @@
-
+import * as React from 'react';
+import { Text } from '@fluentui/react-components';
 
 const Footer = () => {
   return (
-    <>
-<div className="mt-8 w-full bg-black px-8 md:px-[300px] flex md:flex-row flex-col space-y-6 md:space-y-0 items-start md:justify-between text-sm md:text-md py-8 ">
-       <div className="flex flex-col text-white">
-       <p>About Us</p>
-      
-       </div>
+    <footer className="w-full bg-black text-center py-4 fixed bottom-0 left-0 z-50">
+      <Text
+        size={300}
+        weight="semibold"
+        className="text-gray-400 hover:text-white transition-colors duration-300"
+      >
+        © {new Date().getFullYear()} Capsitech Module 4 Task by @srinjoy_das
+      </Text>
+    </footer>
+  );
+};
 
-       <div className="flex flex-col text-white">
-       <p>Privacy Policy</p>
-       
-       </div>
-
-       <div className="flex flex-col text-white">
-        
-        
-         <p>Terms & Conditions</p>
-
-       </div>
-    </div>
-    
-    </>
-    
-  )
-}
-
-export default Footer
+export default Footer;

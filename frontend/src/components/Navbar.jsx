@@ -24,7 +24,7 @@ const Navbar = () => {
   return (
     <div className="flex items-center justify-between px-6 md:px-[200px] py-4 bg-gray-200">
       <h1 className="text-lg md:text-xl font-extrabold">
-        <Link to="/">Capsitech Assignment 4 - Tech Blog</Link>
+        <Link to="/">Tech Blog</Link>
       </h1>
 
       {/* {path === "/" && (
