@@ -62,6 +62,7 @@ const useStyles = makeStyles({
     display: "flex",
     flexDirection: "column",
     marginTop: "1rem",
+    marginBottom: "2rem",
     [`@media(min-width: 768px)`]: {
       flexDirection: "row",
     },
