@@ -54,7 +54,7 @@ Welcome to **TechBlog**, a powerful and interactive blogging platform built usin
 
 📌 **API EndPoints Documentation**
 
-👉 [View API Documentation](https://docs.google.com/document/d/e/2PACX-1vRHwB2XxLG5h4CPcVBnGOiMWMiHW3wgNxJ-ZadJfurFS0icB33UokpIsqFK2yK0AG_uyV_MBDlV1Dqr/pub)
+👉 [View API Documentation](https://github.com/srinjoywork/Module-4/blob/main/API_EndPoints_Documentation.md)
 
 📌 **Demo Video of Whole Project**
 
